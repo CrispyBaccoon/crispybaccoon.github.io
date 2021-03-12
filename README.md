@@ -1,4 +1,4 @@
 readme.md :
 hello world
 
-BIPOS repo: https://crispybaccoon.github.io/BIPOS/
+Site for "BatchPowered" repo: https://crispybaccoon.github.io/batchpowered/
