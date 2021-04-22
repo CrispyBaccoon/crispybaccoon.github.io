@@ -1,4 +1,3 @@
-readme.md :
-hello world
+# crispybaccoon.github.io
+Repository for webpage and main page
 
-Site for "BatchPowered" repo: https://crispybaccoon.github.io/batchpowered/
